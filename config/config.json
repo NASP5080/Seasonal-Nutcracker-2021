@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3B38174b8c147a6F986429328d0E36673C6485c8",
+  "SCAN_LINK": "https://polygonscan.com/address/0x3B38174b8c147a6F986429328d0E36673C6485c8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Seasonal Nutcraxker 2021",
+  "SYMBOL": "SN",
+  "MAX_SUPPLY": 5500,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/seasonal-nutcracker",
+  "SHOW_BACKGROUND": true
+}
